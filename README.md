@@ -6,10 +6,10 @@
 
 ## Index
 * I [Informing](01_Documentation/(I)PERKA.md)
-* P [Planing](I(P)ERKA.md)
-* E [Evaluate/Deciding](IP(E)RKA.md)
-* R [Realising](IPE(R)KA.md)
-* K [Controlling](IPER(K)A.md)
-* A [Acess](IPERK(A).md)
+* P [Planing](01_Documentation/I(P)ERKA.md)
+* E [Evaluate/Deciding](01_Documentation/IP(E)RKA.md)
+* R [Realising](01_Documentation/IPE(R)KA.md)
+* K [Controlling](01_Documentation/IPER(K)A.md)
+* A [Acess](01_Documentation/IPERK(A).md)
 
 <hr>
