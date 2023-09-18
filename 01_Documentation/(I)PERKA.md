@@ -6,6 +6,12 @@
 ## Informing if we can implement this project
 
 ## Resources
+<ul>
+<li>Google</li>
+<li>ChatGPT</li>
+<li>Microsoft Excel</li>
+
+</ul>
 
 
 
