@@ -9,4 +9,5 @@
 
  ## Resources 
 
- <li>Visual Code Studio</li>
+ <li>Google</li>
+<li>chat gpt</li>
