@@ -5,7 +5,7 @@
 <hr>
 
 ## Index
-* I [Informing]((I)PERKA.md)
+* I [Informing](01_Documentation/(I)PERKA.md)
 * P [Planing](I(P)ERKA.md)
 * E [Evaluate/Deciding](IP(E)RKA.md)
 * R [Realising](IPE(R)KA.md)
