@@ -1,2 +1,8 @@
 # m431_ap23a_connect4
-Connect 4 game
+
+### Ania Nunez, Yara Cordero 
+
+<hr>
+
+## Index
+* I [Informing](I)P
