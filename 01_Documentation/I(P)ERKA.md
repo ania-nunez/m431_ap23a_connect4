@@ -7,4 +7,4 @@
 
 ### Assignment Brief 
 <p>This is our Assignment Brief, it contains all our important facts for our project.</p>
-<img src="AssignmentBrief.png">
+<img src="03_Resources/AssignmentBrief.png">
