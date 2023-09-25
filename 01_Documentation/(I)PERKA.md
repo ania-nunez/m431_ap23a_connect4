@@ -6,6 +6,13 @@
 ## Informing if we can implement this project
 We first informed us how our game would be programmed and in which coding language it would be best written in. We also asked our teacher if we can implement our idea, which he said yes to. 
 
+## Assignment Brief
+<p>This is our Assignment Brief, it contains all our important facts for our project.</p>
+<img src="03_Resources/AssignmentBrief.png">
+<br>
+<br>
+
+
 ## Resources
 <ul>
 <li>Google</li>
