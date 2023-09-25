@@ -1,9 +1,10 @@
 # Informing 
 ## Collecting Information
 
-<ul><li>The first thing we did was getting into groups and decidinng what kind of programming project we wanted to do.</li></ul>
+<ul><li>The first thing we did was getting into groups and deciding what kind of programming project we wanted to do.</li></ul>
 
 ## Informing if we can implement this project
+We first informed us how our game would be programmed and in which coding language it would be best written in. We also asked our teacher if we can implement our idea, which he said yes to. 
 
 ## Resources
 <ul>
@@ -11,7 +12,6 @@
 <li>ChatGPT</li>
 <li>Documents from Neil Devlin</li>
 <li>YouTube</li>
-
 
 
 </ul>
