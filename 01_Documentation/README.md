@@ -10,6 +10,6 @@
 * E [Evaluate/Deciding](IP(E)RKA.md)
 * R [Realising](IPE(R)KA.md)
 * K [Controlling](IPER(K)A.md)
-* A [Acess](IPERK(A).md)
+* A [Assessing](IPERK(A).md)
 
 <hr>
