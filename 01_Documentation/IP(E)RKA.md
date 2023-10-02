@@ -9,7 +9,7 @@
 
 ## Decision Matrix
 Before
-
+<img src="03_Resources/DecisionMatrix.png">
 
 
 
