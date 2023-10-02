@@ -1,10 +1,7 @@
 # Evaluating/Deciding
 
 ## Decision Log
-<br>
-<br>
-<br>
-<br>
+<img src="03_Resources/DecisionLog.png">
 <br>
 
 ## Decision Matrix
