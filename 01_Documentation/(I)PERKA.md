@@ -20,7 +20,6 @@ We first informed us how our game would be programmed and in which coding langua
 <li>Documents from Neil Devlin</li>
 <li>YouTube</li>
 
-
 </ul>
 
 [back to README](README.md)
