@@ -12,7 +12,6 @@ We first informed us how our game would be programmed and in which coding langua
 <br>
 <br>
 
-
 ## Resources
 <ul>
 <li>Google</li>
