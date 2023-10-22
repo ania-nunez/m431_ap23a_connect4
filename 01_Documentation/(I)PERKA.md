@@ -8,7 +8,7 @@ We first informed us how our game would be programmed and in which coding langua
 
 ## Assignment Brief
 <p>This is our Assignment Brief, it contains all our important facts for our project.</p>
-<img src="03_Resources/AssignmentBrief.png">
+<img src="03_Resources/AssignmentBrief2.png">
 <br>
 <br>
 
