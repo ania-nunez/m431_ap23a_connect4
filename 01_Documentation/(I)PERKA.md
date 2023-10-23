@@ -10,6 +10,15 @@ We first informed us how our game would be programmed and in which coding langua
 
 <br>
 
+## SMART-Goals
+
+<ul>
+  <li>Program a simple game in C based on the boardgame connect4, until the 30th of October.</li>
+  <li>Have all needed Documentation, like Informing, Planning, Decision, Realization, Control and Assesment ready until the due date (30.10.23)</li>
+</ul>
+
+<br>
+
 ## Assignment Brief
 <p>This is our Assignment Brief, it contains all our important facts for our project.</p>
 <img src="03_Resources/AssignmentBrief2.png">
