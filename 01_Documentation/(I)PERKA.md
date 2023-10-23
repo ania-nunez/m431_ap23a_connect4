@@ -9,7 +9,7 @@ We first informed us how our game would be programmed and in which coding langua
 ## Assignment Brief
 <p>This is our Assignment Brief, it contains all our important facts for our project.</p>
 <img src="03_Resources/AssignmentBrief2.png">
-<br>
+
 <br>
 
 ## Resources
@@ -18,7 +18,13 @@ We first informed us how our game would be programmed and in which coding langua
 <li>ChatGPT</li>
 <li>Documents from Neil Devlin</li>
 <li>YouTube</li>
+</ul>
 
+## Tools 
+
+<ul>
+  <li>Visual Studio Code</li>
+  <li>Command Prompt Window</li>
 </ul>
 
 [back to README](README.md)
