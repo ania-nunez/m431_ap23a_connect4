@@ -2,7 +2,7 @@
 
 ## Decision Log
 <p>This the Decision Log. We logged everytime we made an important decision regarding our project.</p>
-<img src="03_Resources/DecisionLog.png">
+<img src="03_Resources/DecisionLog2.png">
 <hr>
 
 
