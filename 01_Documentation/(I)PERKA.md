@@ -3,8 +3,12 @@
 
 <ul><li>The first thing we did was getting into groups and deciding what kind of programming project we wanted to do.</li></ul>
 
+<br>
+
 ## Informing if we can implement this project
 We first informed us how our game would be programmed and in which coding language it would be best written in. We also asked our teacher if we can implement our idea, which he said yes to. 
+
+<br>
 
 ## Assignment Brief
 <p>This is our Assignment Brief, it contains all our important facts for our project.</p>
@@ -20,12 +24,16 @@ We first informed us how our game would be programmed and in which coding langua
 <li>YouTube</li>
 </ul>
 
+<br>
+
 ## Tools 
 
 <ul>
   <li>Visual Studio Code</li>
   <li>Command Prompt Window</li>
 </ul>
+
+<br>
 
 [back to README](README.md)
 
