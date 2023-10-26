@@ -39,7 +39,9 @@
 
 <ul>
   <li>Visual Studio Code</li>
+  We used this to code our game and to compile it.
   <li>Command Prompt Window</li>
+  Here we play and tested the game.
 </ul>
 
 <br>
