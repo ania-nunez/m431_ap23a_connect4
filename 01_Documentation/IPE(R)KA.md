@@ -2,11 +2,14 @@
 
 **(Functions.c)**
 
-**1. Initializing the Game Board (`initializeBoard`):** In this section, the `initializeBoard` function is used to fill the game board with spaces at the beginning of the game. This ensures that the game board is empty and ready for new moves.
+**1. Initializing the Game Board (`initializeBoard`):** In this section, the `initializeBoard` function is used to fill the game board with spaces at the beginning of the game. This ensures that the game board is empty and ready for new moves. <img width="353" alt="image" src="https://github.com/ania-nunez/m431_ap23a_connect4/assets/143715027/6a798bbf-35bb-4bf9-85e5-37dbff69f67f">
 
-**2. Displaying the Game Board (`displayBoard`):** The `displayBoard` function is used to represent the current game board on the console. It uses loops to display each cell of the game board and adds column numbers to assist players in selecting columns.
 
-**3. Checking the Validity of a Move (`isValidMove`):** Here, the `isValidMove` function is introduced, which checks if a move in a specific column is valid. It ensures that the selected column is not full and within the valid range (1 to 7).
+**2. Displaying the Game Board (`displayBoard`):** The `displayBoard` function is used to represent the current game board on the console. It uses loops to display each cell of the game board and adds column numbers to assist players in selecting columns.<img width="349" alt="image" src="https://github.com/ania-nunez/m431_ap23a_connect4/assets/143715027/04f20284-6a1c-4be7-bc31-cc4f03d4aaa6">
+
+
+**3. Checking the Validity of a Move (`isValidMove`):** Here, the `isValidMove` function is introduced, which checks if a move in a specific column is valid. It ensures that the selected column is not full and within the valid range (1 to 7).<img width="477" alt="image" src="https://github.com/ania-nunez/m431_ap23a_connect4/assets/143715027/8d443d58-3df6-4b41-9735-89e78d16f872">
+
 
 **4. Executing a Game Move (`makeMove`):** The `makeMove` function is explained in this section. It places a player's game piece in the chosen column, with the piece falling into the bottommost available row.
 
