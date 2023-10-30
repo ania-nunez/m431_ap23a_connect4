@@ -1,5 +1,5 @@
-#ifndef FUNCTIONS_H
-#define FUNCTIONS_H
+#ifndef FUNCTIONS.H
+#define FUNCTIONS.H
 
 void displayBoard();
 void initializeBoard();

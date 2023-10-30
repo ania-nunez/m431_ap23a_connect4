@@ -5,7 +5,7 @@
 
 char board[ROWS][COLS];
 
-void initializeBoard() {
+void initializeBoard() {   //code based of AI (Chat-GPT)
     for (int i = 0; i < ROWS; i++) {
         for (int j = 0; j < COLS; j++) {
             board[i][j] = ' ';
@@ -14,13 +14,18 @@ void initializeBoard() {
 }
 
 void displayBoard() {
-    for (int i = 0; i < ROWS; i++) {
+    
+    system("cls"); //makes the screen "refresh"
+
+    printf("\n\n\n\n"); //space away from the top
+
+    for (int i = 0; i < ROWS; i++) { 
         for (int j = 0; j < COLS; j++) {
             printf("| %c ", board[i][j]);
         }
         printf("|\n");
     }
-    printf("  1   2   3   4   5   6   7\n");
+    printf("  1   2   3   4   5   6   7\n"); //prints out index for the board
 }
 
 int isValidMove(int col) {
@@ -37,8 +42,8 @@ void makeMove(int col, char player) {
 }
 
 int checkWin(char player) {
-    // Check for horizontal wins
-    for (int i = 0; i < ROWS; i++) {
+    
+    for (int i = 0; i < ROWS; i++) { //checks for horizontal wins
         for (int j = 0; j <= COLS - 4; j++) {
             if (board[i][j] == player && board[i][j + 1] == player &&
                 board[i][j + 2] == player && board[i][j + 3] == player) {
@@ -47,8 +52,8 @@ int checkWin(char player) {
         }
     }
 
-    // Check for vertical wins
-    for (int i = 0; i <= ROWS - 4; i++) {
+    
+    for (int i = 0; i <= ROWS - 4; i++) { //checks for vertical wins
         for (int j = 0; j < COLS; j++) {
             if (board[i][j] == player && board[i + 1][j] == player &&
                 board[i + 2][j] == player && board[i + 3][j] == player) {
@@ -56,23 +61,21 @@ int checkWin(char player) {
             }
         }
     }
-
-    // Check for diagonal wins (positive slope)
-    for (int i = 0; i <= ROWS - 4; i++) {
+    
+    for (int i = 0; i <= ROWS - 4; i++) { //checks for diagonal wins
         for (int j = 0; j <= COLS - 4; j++) {
             if (board[i][j] == player && board[i + 1][j + 1] == player &&
                 board[i + 2][j + 2] == player && board[i + 3][j + 3] == player) {
-                return 1;
+                return 1;//code based of AI (Chat-GPT)
             }
         }
     }
 
-    // Check for diagonal wins (negative slope)
-    for (int i = 0; i <= ROWS - 4; i++) {
+    for (int i = 0; i <= ROWS - 4; i++) { //checks for diagonal wins
         for (int j = 3; j < COLS; j++) {
             if (board[i][j] == player && board[i + 1][j - 1] == player &&
                 board[i + 2][j - 2] == player && board[i + 3][j - 3] == player) {
-                return 1;
+                return 1;//code based of AI (Chat-GPT)
             }
         }
     }
@@ -80,7 +83,7 @@ int checkWin(char player) {
     return 0;
 }
 
-int isBoardFull() {
+int isBoardFull() { //checks if board is full 
     for (int i = 0; i < ROWS; i++) {
         for (int j = 0; j < COLS; j++) {
             if (board[i][j] == ' ') {
