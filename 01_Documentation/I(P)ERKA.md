@@ -45,7 +45,7 @@
 
 <br>
 
-<img src= "03_Resources/Tasklist.png">
+<img src= "03_Resources/Tasklist2.png">
 
 
 
@@ -55,7 +55,7 @@
 
 <br>
 
-<img src= "03_Resources/MilestoneGANTT.png">
+<img src= "03_Resources/MilestoneGANTT2.png">
 
 
 [back to README](README.md)
