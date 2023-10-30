@@ -2,8 +2,10 @@
 
 ## Decision Log
 <p>This the Decision Log. We logged everytime we made an important decision regarding our project.</p>
+
+<br>
+
 <img src="03_Resources/DecisionLog2.png">
-<hr>
 
 
 ## Decision Matrix
