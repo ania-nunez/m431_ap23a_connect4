@@ -14,13 +14,13 @@ This was a simple testing protokoll, to see if basic funtions of our game where 
 | 5   |  enter player 1 in column 5  | 5 | X in the 5. col |X in the 5. col | ok |
 | 6   |  enter player 1 in column 6  | 6 | X in the 6. col |X in the 6. col | ok |
 | 7   |  enter player 1 in column 7  | 7 | X in the 7. col |X in the 7. col | ok |
-| 8   |  enter player 2 in column 1  | 1 | X in the 1. col |X in the 1. col | ok |
-| 9   |  enter player 2 in column 2  | 2 | X in the 2. col |X in the 2. col | ok |
-| 10  |  enter player 2 in column 3  | 3 | X in the 3. col |X in the 3. col | ok |
-| 11  |  enter player 2 in column 4  | 4 | X in the 4. col |X in the 4. col | ok |
-| 12  |  enter player 2 in column 5  | 5 | X in the 5. col |X in the 5. col | ok |
-| 13  |  enter player 2 in column 6  | 6 | X in the 6. col |X in the 6. col | ok |
-| 14  |  enter player 2 in column 7  | 7 | X in the 7. col |X in the 7. col | ok |
+| 8   |  enter player 2 in column 1  | 1 | O in the 1. col |O in the 1. col | ok |
+| 9   |  enter player 2 in column 2  | 2 | O in the 2. col |O in the 2. col | ok |
+| 10  |  enter player 2 in column 3  | 3 | O in the 3. col |O in the 3. col | ok |
+| 11  |  enter player 2 in column 4  | 4 | O in the 4. col |O in the 4. col | ok |
+| 12  |  enter player 2 in column 5  | 5 | O in the 5. col |O in the 5. col | ok |
+| 13  |  enter player 2 in column 6  | 6 | O in the 6. col |O in the 6. col | ok |
+| 14  |  enter player 2 in column 7  | 7 | O in the 7. col |O in the 7. col | ok |
 | 15  |  does the game end in a tie if board is full | [Unsolved game](03_Resources/unsolved_connect4.png) | the game ends in a draw | the game ends in a draw | ok |
 
 <br>
