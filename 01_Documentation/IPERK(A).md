@@ -13,8 +13,8 @@ Yara <ul>
 
 Ania <ul>
 <li>I am Happy with the outcome of this Project.</li>
-<li>I've learned alot and i think this Project will have positive and usefull outcome in the future.</li>
-<li>I sometimes were a bit stressed to finishj the code and my part of the Documentation but we finished everything in time.</li>
+<li>I've learned alot and I think this Project will have positive and usefull outcome in the future.</li>
+<li>I sometimes were a bit stressed to finish the code and my part of the Documentation but we finished everything in time.</li>
 </ul>
 
 
@@ -26,6 +26,11 @@ What we condsidered to been well done was the writing of our code. We had choose
 
 What rather didn't go aswell was our uploading to GitHub. We uploaded files more sporatically than others and didn't update our code weekly. It was difficult for both of us to see the updated code and work on it, when it wasn't uploaded. (To see precise Issues -> see Realize Document). We realized way to late that we should've split the work more fairly as one of us always had a lot to do and the other didn't.
 
+## Solutions for the future 
+
+As said in the text above we had problems with our GitHub. We were logged in in our work GitHub, and having to constantly log out and in was a tedious thing. For future refrence we want to find a solution so that we can easily switch from school and work accounts.
+
 <br>
+
 
 [back to README](README.md)
