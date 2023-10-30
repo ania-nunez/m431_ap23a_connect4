@@ -6,6 +6,17 @@
 
 3. After that open it and start playing!
 
+Have fun!
+
+<br>
+
+<br>
+
+<br>
+
+(If your windows defender pops up after opening, click more info and then run anyway)
+
+<img src="microsoft-defender-smartscreen-warning.png" width="400">
 <br>
 
 Have fun!
