@@ -16,7 +16,8 @@ Have fun!
 
 (If your windows defender pops up after opening, click more info and then run anyway)
 
-<img src="microsoft-defender-smartscreen-warning.png" width="400">
+<img src="microdef_1.png" width="400">
 <br>
+<img src="microdef_2.png" width="400">
 
-Have fun!
+
