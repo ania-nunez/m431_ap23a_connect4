@@ -1,6 +1,6 @@
 ## CONNECT4
 
-1. Download the .exe file.
+1. Download the .exe file. (Found in the [03_Game](03_Game) Folder)
 
 2. Find the file in your Downloads folder.
 
