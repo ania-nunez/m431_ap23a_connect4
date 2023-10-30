@@ -1,6 +1,6 @@
 # Realise
 
-**(Functions.c)**
+## Functions.c
 
 **1. Initializing the Game Board (`initializeBoard`):** In this section, the `initializeBoard` function is used to fill the game board with spaces at the beginning of the game. This ensures that the game board is empty and ready for new moves.
 <img width="353" alt="image" src="https://github.com/ania-nunez/m431_ap23a_connect4/assets/143715027/6a798bbf-35bb-4bf9-85e5-37dbff69f67f">
@@ -32,7 +32,7 @@
 <img width="319" alt="image" src="https://github.com/ania-nunez/m431_ap23a_connect4/assets/143715027/c3d2f2b3-4201-4ab9-85db-fe738fe25753">
 
 
-**(Functions.h)**
+## Functions.h
 
 1. `#ifndef FUNCTIONS_H`
    - This line processes information and then passes it on to another programme called preprocessor, directive (macro) called "ifndef" (if not defined) used to avoid double definitions of header files. If `FUNCTIONS_H` is already defined, the subsequent code in the header is not reinserted.
@@ -61,7 +61,7 @@
    - <img width="234" alt="image" src="https://github.com/ania-nunez/m431_ap23a_connect4/assets/143715027/407bcbb0-3425-4dd6-b95c-e629796e0d97">
 
 
-**(functions2.c)**
+ ## (functions2.c)
 
 1. `#include <stdio.h>`:
    - This is a preprocessor directive that includes the standard library `stdio.h` in the program. It is used for input and output operations like `printf`.
@@ -100,7 +100,7 @@
 <img width="214" alt="image" src="https://github.com/ania-nunez/m431_ap23a_connect4/assets/143715027/eb59f93a-5386-47b1-a3ca-11f1fc8a8a8d">
 
 
-**(functions2.h)**
+## (functions2.h)
 
 The code you posted is part of a header file in programming, likely in the C or C++ programming language. This header file contains function declarations and is typically combined with other source code files to create a complete program. Let me explain the use and meaning of this code:
 
@@ -124,7 +124,7 @@ The code you posted is part of a header file in programming, likely in the C or 
 <img width="148" alt="image" src="https://github.com/ania-nunez/m431_ap23a_connect4/assets/143715027/df2444b5-353c-4589-ad6e-abf5c9b0ba4a">
 
 
-**(main.c)**
+ ## Main.c
 
 1. First, some required header files and a custom header file "functions.h" are included. This indicates that there are functions defined in this header file that are used in the main program.
 
@@ -168,7 +168,7 @@ The code you posted is part of a header file in programming, likely in the C or 
 <img width="314" alt="image" src="https://github.com/ania-nunez/m431_ap23a_connect4/assets/143715027/cc774d0a-1f68-43e0-b154-7f37d657a3ad">
 
 
-**(main2.c)**
+## (main2.c)
 
 1. `#include <stdio.h>`: This is a preprocessor directive that includes the standard input/output library, which is necessary for functions like `printf` and `scanf`.
 
@@ -216,4 +216,5 @@ The code you posted is part of a header file in programming, likely in the C or 
 
 This program is a simple console-based implementation of Connect Four, allowing two players to take turns and play the game until one of them wins or it results in a draw. The specific implementation details of functions like `initializeBoard`, `displayBoard`, `isValidMove`, `makeMove`, `checkWin`, and `isBoardFull` are located in the "functions2.h" file.
 
-Issues: We had Issues using the VS code connected to the git hub so we needed to upload everything manualy.
+## Issues 
+We had Issues using the VS code connected to the GitHub so we needed to upload everything manualy. We are currently logged into our work account and us having to log in and out everytime we wanted to work on the Assignment was very tedious to do. Our code wasn't always uploaded regularly.
