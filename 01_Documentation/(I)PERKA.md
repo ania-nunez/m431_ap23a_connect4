@@ -37,7 +37,10 @@
 
 <ul>
 <li>Google</li>
+  Was used to find explanations and solutions to problems.
 <li>ChatGPT</li>
+  We based some of our code of an AI generated code. (all code copied from AI, found marked in code)
+  (https://chat.openai.com/share/543524f0-3cf0-447a-8de0-4cc793bb95f8)
 <li>Documents from Neil Devlin</li>
 <li>YouTube</li>
 </ul>
