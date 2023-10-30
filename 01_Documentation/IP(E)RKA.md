@@ -1,5 +1,7 @@
 # Evaluating/Deciding
 
+<br>
+
 ## Decision Log
 <p>This the Decision Log. We logged everytime we made an important decision regarding our project.</p>
 
