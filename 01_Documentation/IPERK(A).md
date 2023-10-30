@@ -12,7 +12,9 @@ Yara <ul>
 </ul>
 
 Ania <ul>
-<li></li>
+<li>I am Happy with the outcome of this Project.</li>
+<li>I've learned alot and i think this Project will have positive and usefull outcome in the future.</li>
+<li>I sometimes were a bit stressed to finishj the code and my part of the Documentation but we finished everything in time.</li>
 </ul>
 
 
