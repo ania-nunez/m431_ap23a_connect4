@@ -22,22 +22,20 @@
 **6. Checking for a Draw Game (`isBoardFull`):** Here, the `isBoardFull` function is introduced, which checks if the game board is full, indicating a draw game. It traverses the game board and returns 1 if all cells are filled.
 
 
-**7. Horizontal Win Checks (`checkWin`):** This section highlights how the `checkWin` function checks for horizontal winning combinations by searching for four consecutive player pieces in each row.
+**7. Horizontal Win Checks (`checkWin`):** This section highlights how the `checkWin` function checks for horizontal winning combinations by searching for four following player pieces in each row.
 
-**8. Vertical Win Checks (`checkWin`):** Here, it explains how `checkWin` determines vertical winning combinations within the columns by examining each column for four consecutive player pieces.
+**8. Vertical Win Checks (`checkWin`):** Here, it explains how `checkWin` determines vertical winning combinations within the columns by examining each column for four following player pieces.
 
-**9. Diagonal Win Checks (`checkWin`):** This section deals with checking for diagonal winning combinations in two different directions - positive and negative slopes. `checkWin` searches for four consecutive player pieces in diagonal orientation and returns 1 if such a combination is found.
+**9. Diagonal Win Checks (`checkWin`):** This section deals with checking for diagonal winning combinations in two different directions - positive and negative slopes. `checkWin` searches for four following player pieces in diagonal orientation and returns 1 if such a combination is found.
 <img width="610" alt="image" src="https://github.com/ania-nunez/m431_ap23a_connect4/assets/143715027/f65271ff-603b-4aad-990c-75bf3aeb82e8">
 <img width="614" alt="image" src="https://github.com/ania-nunez/m431_ap23a_connect4/assets/143715027/bfab7967-f17a-4bcd-9669-3da1e3ff4378">
 <img width="319" alt="image" src="https://github.com/ania-nunez/m431_ap23a_connect4/assets/143715027/c3d2f2b3-4201-4ab9-85db-fe738fe25753">
 
 
-The code shown is an example of the use of header files in programming, particularly in the C or C++ programming languages. A header file typically contains declarations of functions, variables, and other elements to be used in various parts of a program.
-
 **(Functions.h)**
 
 1. `#ifndef FUNCTIONS_H`
-   - This is a preprocessor directive (macro) called "ifndef" (if not defined) used to avoid double definitions of header files. If `FUNCTIONS_H` is already defined, the subsequent code in the header is not reinserted.
+   - This line processes information and then passes it on to another programme called preprocessor, directive (macro) called "ifndef" (if not defined) used to avoid double definitions of header files. If `FUNCTIONS_H` is already defined, the subsequent code in the header is not reinserted.
 
 2. `#define FUNCTIONS_H`
    - This is another preprocessor directive that defines `FUNCTIONS_H`. It ensures that the code in the header is inserted only once in a specific translation unit. If the `FUNCTIONS_H` macro is already defined, the code in the header is skipped.
@@ -62,8 +60,6 @@ The code shown is an example of the use of header files in programming, particul
   
    - <img width="234" alt="image" src="https://github.com/ania-nunez/m431_ap23a_connect4/assets/143715027/407bcbb0-3425-4dd6-b95c-e629796e0d97">
 
-
-By using preprocessor directives and header files, these function declarations can be used in different source code files without the header code being inserted multiple times. If you want to use these functions in your program, you need to implement them elsewhere in the code by adding the body of the functions. This header serves as a means to provide the interfaces for the mentioned functions in your program.
 
 **(functions2.c)**
 
@@ -103,7 +99,6 @@ By using preprocessor directives and header files, these function declarations c
    - This function checks if the game board is full, meaning there are no more empty cells. If the game board is full, it returns `1`; otherwise, it returns `0`.
 <img width="214" alt="image" src="https://github.com/ania-nunez/m431_ap23a_connect4/assets/143715027/eb59f93a-5386-47b1-a3ca-11f1fc8a8a8d">
 
-This code allows for playing Connect Four between two players. The game board is initialized, and then players take turns making their moves, with the validity of the moves and determination of winners checked. The `displayBoard` function is used to show the current game board state. This provides a foundation for implementing the Connect Four game in C.
 
 **(functions2.h)**
 
@@ -128,8 +123,6 @@ The code you posted is part of a header file in programming, likely in the C or 
    - `int isBoardFull();`: This function checks whether the game board is full, indicating a draw game.
 <img width="148" alt="image" src="https://github.com/ania-nunez/m431_ap23a_connect4/assets/143715027/df2444b5-353c-4589-ad6e-abf5c9b0ba4a">
 
-
-These declarations allow other parts of the program to access these functions without knowing their exact implementations. The actual implementations of these functions are typically written in a separate source code file (.c or .cpp) and then linked with the header file to create a complete executable program.
 
 **(main.c)**
 
@@ -175,8 +168,6 @@ These declarations allow other parts of the program to access these functions wi
 <img width="314" alt="image" src="https://github.com/ania-nunez/m431_ap23a_connect4/assets/143715027/cc774d0a-1f68-43e0-b154-7f37d657a3ad">
 
 
-This program is a basic console-based implementation of Connect Four, allowing two players to take turns and play the game until one of them wins or it results in a draw. The specific implementation details of functions like `initializeBoard`, `displayBoard`, `isValidMove`, `makeMove`, `checkWin`, and `isBoardFull` are located in the "functions.h" file.
-
 **(main2.c)**
 
 1. `#include <stdio.h>`: This is a preprocessor directive that includes the standard input/output library, which is necessary for functions like `printf` and `scanf`.
@@ -214,9 +205,7 @@ This program is a basic console-based implementation of Connect Four, allowing t
 14. If the game is not won, it checks if the board is full with `isBoardFull()`. If the board is full, it declares a draw and exits the game.
 <img width="151" alt="image" src="https://github.com/ania-nunez/m431_ap23a_connect4/assets/143715027/99190c11-1473-4c4e-95e3-47521b129ec0">
 
-15. Finally
-
-, the code switches the current player (from Player 1 to Player 2, or vice versa) for the next turn.
+15. Finally, the code switches the current player (from Player 1 to Player 2, or vice versa) for the next turn.
 
 16. If the move is not valid (in the `else` part), it prints an error message.
 
