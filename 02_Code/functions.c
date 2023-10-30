@@ -5,10 +5,10 @@
 
 char board[ROWS][COLS];
 
-void initializeBoard() {   //code based of AI (Chat-GPT)
+void initializeBoard() {   
     for (int i = 0; i < ROWS; i++) {
         for (int j = 0; j < COLS; j++) {
-            board[i][j] = ' ';
+            board[i][j] = ' '; //code based of AI (Chat-GPT)
         }
     }
 }
@@ -87,7 +87,7 @@ int isBoardFull() { //checks if board is full
     for (int i = 0; i < ROWS; i++) {
         for (int j = 0; j < COLS; j++) {
             if (board[i][j] == ' ') {
-                return 0;
+                return 0; //code based of AI (Chat-GPT)
             }
         }
     }
