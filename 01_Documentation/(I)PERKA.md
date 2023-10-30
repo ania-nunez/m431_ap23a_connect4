@@ -4,7 +4,7 @@
 
 ## Collecting Information
 
-<ul><li>The first thing we did was getting into groups and deciding what kind of programming project we wanted to do.</li></ul>
+<p>The first thing we did was getting into groups and deciding what kind of programming project we wanted to do.</p>
 
 <br>
 
@@ -43,6 +43,7 @@
   (https://chat.openai.com/share/543524f0-3cf0-447a-8de0-4cc793bb95f8)
 <li>Documents from Neil Devlin</li>
 <li>YouTube</li>
+  Used for test-case (link to video in Controlling-Dokument)
 </ul>
 
 <br>
