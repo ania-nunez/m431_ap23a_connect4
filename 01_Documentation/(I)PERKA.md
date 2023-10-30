@@ -19,6 +19,7 @@
 <ul>
   <li>Program a simple game in C based on the boardgame connect4, until the 30th of October.</li>
   <li>Have all needed Documentation, like Informing, Planning, Decision, Realization, Control and Assesment ready until the due date (30.10.23)</li>
+  <li>Our Group Goal is to write our first game in C, which includes Functions, and have it be playable for 2 Players.</li>
 </ul>
 
 <br>
@@ -44,7 +45,8 @@
 <li>Documents from Neil Devlin</li>
   examples in gitlab for documentation
 <li>YouTube</li>
-  Used for test-case (link to video in Controlling-Dokument)
+  Used for test-case  
+  (https://youtube.com/watch?v=d-7eiD2DNGw) 
 </ul>
 
 <br>
